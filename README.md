@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Привет, я s1axe
 
-<!--
-**s1axe/s1axe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Обо мне
+Начинающий разработчик, который учится создавать полезные инструменты.  
+Люблю разбираться в коде, экспериментировать с Python и автоматизировать рутину.
 
-Here are some ideas to get you started:
+### 🛠️ Стек технологий
+- **Языки:** Python, JavaScript (база)
+- **Библиотеки:** Aiogram, Requests, BeautifulSoup
+- **Инструменты:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Что здесь можно найти?
+Пока здесь мало проектов, но я активно учусь и скоро добавлю:
+- 🔹 Ботов для Telegram
+- 🔹 Парсеры и скрипты
+- 🔹 Учебные пет-проекты
+
+### 📫 Контакты
+- [Telegram](ссылка_на_твой_телеграм) (если есть)
+- [ВКонтакте/другая соцсеть] (опционально)
+
+---
+⭐ Заглядывай позже — контент будет обновляться!
