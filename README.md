@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31331307/README.md)
-<div align="center">
-
 # 👋 Привет, я Вадим
 
 ### 🐍 Python Developer in Progress → 🤖 AI Development
