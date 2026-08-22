@@ -1,35 +1,43 @@
+<div align="center">
+
 # 👋 Привет, я Вадим
 
-### 🐍 Python Developer → 🤖 AI Development
+### 🐍 Python Developer in Progress → 🤖 AI Development
 
-## Обо мне
+Изучаю Python и постепенно двигаюсь к разработке AI-приложений.
+Люблю разбираться в коде, экспериментировать и превращать знания в реальные проекты.
 
-- 🌱 Сейчас активно изучаю Python
-- 🧠 Учусь программированию через практику и собственные проекты
-- 🚀 Двигаюсь в сторону AI Development
-- 💻 Люблю создавать небольшие инструменты и экспериментировать с кодом
+<br>
 
-## Технологии и инструменты
+<img src="https://skillicons.dev/icons?i=python,js,git,github,vscode,linux&theme=dark" />
 
-🐍 Python  
-🟨 JavaScript  
-🐙 Git / GitHub  
-💻 VS Code  
-🐧 Linux  
+</div>
 
-## Сейчас изучаю
+---
+
+## 🚀 Сейчас изучаю
+
+- 🐍 Python Core
+- 📚 Алгоритмы и структуры данных
+- 🗄️ SQL и базы данных
+- 🌐 Backend / FastAPI
+- 🤖 AI Development
+
+### 🗺️ Roadmap
 
 ```text
-Python
-├── Core
-├── Collections
-├── Strings
-├── Functions
-└── OOP
-
-Дальше:
-├── SQL
-├── FastAPI
-├── PostgreSQL
-├── Docker
-└── AI Development
+Python Core
+    ↓
+Data + SQL
+    ↓
+Backend
+    ↓
+FastAPI + PostgreSQL
+    ↓
+LLM API
+    ↓
+RAG
+    ↓
+AI Agents
+    ↓
+🚀 AI Applications
