@@ -41,3 +41,26 @@ RAG
 AI Agents
     ↓
 🚀 AI Applications
+
+💻 Что уже умею
+Python
+├── Variables
+├── Conditions
+├── Loops
+├── Lists
+├── Strings
+├── Indexing
+├── Slicing
+└── Basic data processing
+
+JavaScript
+├── Variables
+├── Arrays
+├── Loops
+└── Conditions
+
+Tools
+├── Git
+├── GitHub
+├── VS Code
+└── Linux
