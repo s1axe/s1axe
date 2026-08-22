@@ -1,63 +1,35 @@
 # 👋 Привет, я Вадим
 
-### 🐍 Python Developer in Progress → 🤖 AI Development
+### 🐍 Python Developer → 🤖 AI Development
 
-Я изучаю программирование системно: не просто смотрю теорию, а
-закрепляю каждую тему практикой и небольшими проектами.
+## Обо мне
 
-Сейчас мой основной язык — **Python**.
+- 🌱 Сейчас активно изучаю Python
+- 🧠 Учусь программированию через практику и собственные проекты
+- 🚀 Двигаюсь в сторону AI Development
+- 💻 Люблю создавать небольшие инструменты и экспериментировать с кодом
 
-Моя цель — постепенно прийти к разработке AI-приложений,
-LLM, RAG и AI-агентов.
+## Технологии и инструменты
 
----
+🐍 Python  
+🟨 JavaScript  
+🐙 Git / GitHub  
+💻 VS Code  
+🐧 Linux  
 
-## 🧠 Сейчас изучаю
-
-🐍 **Python**
-- условия и циклы
-- списки и строки
-- работа с данными
-- функции
-- коллекции
-- исключения
-- модули и пакеты
-
-🔧 **Инструменты**
-- Git
-- GitHub
-- VS Code
-- Terminal
-- Linux
-- venv / pip
-
-📚 **Дальше по плану**
-- SQL
-- PostgreSQL
-- FastAPI
-- REST API
-- Docker
-- LLM API
-- RAG
-- AI Agents
-
----
-
-## 💻 Что уже умею
-
-### Python
+## Сейчас изучаю
 
 ```text
-✓ variables
-✓ if / elif / else
-✓ for / while
-✓ range()
-✓ lists
-✓ indexing
-✓ slicing
-✓ append / remove / pop
-✓ strings
-✓ string methods
-✓ filtering data
-✓ counters
-✓ calculating sums
+Python
+├── Core
+├── Collections
+├── Strings
+├── Functions
+└── OOP
+
+Дальше:
+├── SQL
+├── FastAPI
+├── PostgreSQL
+├── Docker
+└── AI Development
