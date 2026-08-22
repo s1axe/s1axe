@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/31331307/README.md)
 <div align="center">
 
 # 👋 Привет, я Вадим
@@ -78,28 +79,6 @@ AI Agents
 - GitHub
 - VS Code
 - Linux
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=s1axe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for s1axe" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1axe&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages by s1axe" />
-
-</div>
-
----
-
-## 🔥 Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=s1axe&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for s1axe" />
-
-</div>
 
 ---
 
