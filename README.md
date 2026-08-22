@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Привет, я Вадим
 
 ### 🐍 Python Developer in Progress → 🤖 AI Development
