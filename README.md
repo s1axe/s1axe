@@ -42,7 +42,9 @@ AI Agents
     ↓
 🚀 AI Applications
 
-💻 Что уже умею
+### 💻 Что уже умею
+
+```text
 Python
 ├── Variables
 ├── Conditions
