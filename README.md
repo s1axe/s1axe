@@ -4,7 +4,7 @@
 
 ### 🐍 Python Developer in Progress → 🤖 AI Development
 
-Изучаю Python и постепенно двигаюсь к разработке AI-приложений.
+Изучаю Python и постепенно двигаюсь к разработке AI-приложений.  
 Люблю разбираться в коде, экспериментировать и превращать знания в реальные проекты.
 
 <br>
@@ -41,47 +41,34 @@ RAG
 AI Agents
     ↓
 🚀 AI Applications
-
----
-
-## 💻 Что уже умею
-
-### 🐍 Python
-
-- `if / elif / else`
-- `for / while`
-- `range()`
+💻 Что уже умею
+🐍 Python
+- if / elif / else
+- for / while
+- range()
 - списки
 - индексы и срезы
-- `append()`
-- `remove()`
-- `pop()`
+- append()
+- remove()
+- pop()
 - строки
 - перебор списков и строк
 - фильтрация данных
 - подсчёт элементов
 - накопление суммы
-
-### 🟨 JavaScript
-
+🟨 JavaScript
 - переменные
 - массивы
 - индексы
-- `length`
-- `for`
-- `if`
-
-### 🛠 Инструменты
-
+- length
+- for
+- if
+🛠️ Инструменты
 - Git
 - GitHub
 - VS Code
 - Linux
-
----
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=s1axe&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -90,29 +77,19 @@ AI Agents
 
 </div>
 
----
-
-## 🔥 Activity
-
+🔥 Activity
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=s1axe&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
-
-## 🎯 Цель
-
+🎯 Цель
 Стать разработчиком, который умеет самостоятельно создавать
 полноценные приложения и интегрировать современные AI-технологии.
-
-**Learning → Building → Improving**
-
----
-
+Learning → Building → Improving
 <div align="center">
 
 ⭐ Постепенно превращаю обучение в реальные проекты.
-
 </div>
+```
